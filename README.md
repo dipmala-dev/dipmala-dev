@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./Developer%20-banner.png" alt="Dipmala Vijay Patil — Java Full Stack Developer" width="100%" />
-</p>
-
 # 💫 About Me:
 
 I'm **Dipmala Vijay Patil**, a **Computer Science Engineering student** from India, currently pursuing my B.Tech and focused on **Java Full Stack Development**.
