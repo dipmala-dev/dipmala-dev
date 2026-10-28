@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 
 I'm **Dipmala Vijay Patil**, a **Computer Science Engineering student** from India, currently pursuing my B.Tech and focused on **Java Full Stack Development**.
 
@@ -125,9 +125,37 @@ I'm **Dipmala Vijay Patil**, a **Computer Science Engineering student** from Ind
 * 📚 Strengthen DSA and problem-solving skills
 * 🤝 Contribute to open-source projects
 
-## 📈 Contribution Graph
+## 📊 GitHub Analytics Dashboard
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dipmala-dev&theme=tokyo-night&hide_border=true" alt="Dipmala's GitHub Activity Graph" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dipmala-dev&theme=github_dark" alt="GitHub profile contribution details"/>
 </p>
 
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dipmala-dev&theme=github_dark" alt="Top languages by repository"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dipmala-dev&theme=github_dark" alt="Top languages by commits"/>
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dipmala-dev&theme=github_dark" alt="GitHub statistics"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dipmala-dev&theme=github_dark&utcOffset=5.5" alt="Commits by time of day"/>
+</p>
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/dipmala-dev/dipmala-dev/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/dipmala-dev/dipmala-dev/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake"
+      src="https://raw.githubusercontent.com/dipmala-dev/dipmala-dev/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:1D4ED8,100:0B1020&height=110&section=footer" width="100%" alt="Blue and purple footer banner"/>
+</p>
+
+<p align="center">
+  <i>"Consistency turns small commits into meaningful progress."</i> 💙
+</p>
